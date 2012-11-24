@@ -1,7 +1,7 @@
 {
   "name": "cache-reduce",
   "id": "cache-reduce",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Caching for reducible data structures",
   "keywords": [
     "cache",
@@ -28,7 +28,7 @@
     "eventual": "~1.0.0",
     "reducers": "~2.0.0"
   },
-  "main": "./cache-reduce.js",
+  "main": "./cache.js",
   "scripts": {
     "repl": "node node_modules/repl-utils",
     "test": "npm run test-node && npm run test-browser",
