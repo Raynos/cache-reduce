@@ -43,7 +43,8 @@
     }
   ],
   "dependencies": {
-    "buffer-reduce": "Raynos/buffer-reduce"
+    "buffer-reduce": "Raynos/buffer-reduce#dedup",
+    "reducible": "Raynos/reducible#v1.0.6"
   },
   "peerDependencies": {
     "reducible": "~1.0.5"
